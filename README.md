@@ -27,6 +27,6 @@ I am a Data Analyst and Machine Learning Engineer :crystal_ball: from Nigeria.
 - 🔭 I’m currently working on ML web applications
 - 🌱 I’m currently learning Artificial Neural Networks
 - 👯 I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-aderemi/)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-aderemi)
 
 
