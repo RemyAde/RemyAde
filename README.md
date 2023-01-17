@@ -15,8 +15,7 @@
 
 
 <div align="center">
-<!--   <img src="https://media3.giphy.com/media/ZaWIVLcGf8lqHK2rHq/200.webp" width="600" height="300"/> -->
-  <iframe src="https://giphy.com/embed/TaYmMYLtP0RvpDzgn4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a      href="https://giphy.com/gifs/loop-ai-artificial-intelligence-TaYmMYLtP0RvpDzgn4">via GIPHY</a></p>
+  <img src="https://media3.giphy.com/media/ZaWIVLcGf8lqHK2rHq/200.webp" width="600" height="300"/>
 </div>
 
 ---
