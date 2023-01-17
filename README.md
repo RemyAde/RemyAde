@@ -15,7 +15,8 @@
 
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/ZaWIVLcGf8lqHK2rHq/200.webp" width="600" height="300"/>
+<!--   <img src="https://media3.giphy.com/media/ZaWIVLcGf8lqHK2rHq/200.webp" width="600" height="300"/> -->
+  <img src="https://media.giphy.com/media/TaYmMYLtP0RvpDzgn4/giphy.gif" alt="Nothing to show" width="480" height="480">
 </div>
 
 ---
