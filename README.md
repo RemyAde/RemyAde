@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<!--   <img src="https://media1.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="100"/> -->
-  <img src="https://giphy.com/gifs/loop-ai-artificial-intelligence-TaYmMYLtP0RvpDzgn4", width=100/>
+  <img src="https://media1.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="100"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/samuel-aderemi/">
@@ -16,7 +15,8 @@
 
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/ZaWIVLcGf8lqHK2rHq/200.webp" width="600" height="300"/>
+<!--   <img src="https://media3.giphy.com/media/ZaWIVLcGf8lqHK2rHq/200.webp" width="600" height="300"/> -->
+  <img src="https://giphy.com/gifs/loop-ai-artificial-intelligence-TaYmMYLtP0RvpDzgn4" width="480", height="480"/>
 </div>
 
 ---
