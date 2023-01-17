@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="100"/>
+<!--   <img src="https://media1.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="100"/> -->
+  <img src="https://giphy.com/gifs/loop-ai-artificial-intelligence-TaYmMYLtP0RvpDzgn4", width=100/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/samuel-aderemi/">
