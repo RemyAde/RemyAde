@@ -1,24 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="100"/>
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/samuel-aderemi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://twitter.com/justRemy_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<h1> Hi there 👋 </h1>
-</div>
+# Hi, I'm Sam 👋
 
-### :man_technologist: About Me :
+I am a backend developer and data analyst with a focus on Python and the Django web framework. I have experience working with SQL databases, and I enjoy exploring data to gain insights and make informed decisions.
 
+🔭 I’m currently working on an API for a logistics web app.
 
-I am a Data Analyst and Machine Learning Engineer :crystal_ball: from Nigeria.
-- 🔭 I’m currently working on ML web applications
-- 👯 I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-aderemi)
+🌱 I’m currently learning Power BI.
 
+💬 Ask me about Python, Django, SQL, API & ML.
 
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-aderemi)
+
+⚡ Fun fact: 1F601
+
+## Skills
+
+- Python
+- Django
+- Django REST framework
+- SQL
+- Git
+- Azure
+- Docker
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Projects
+
+- [African Nations Electricty Generation Capacity Analysis](https://github.com/RemyAde/Africa_energy_analysis)
+- [SavePal](https://github.com/RemyAde/SavePal)
+
+## Let's collaborate!
+
+If you are interested in collaborating on a project, or have any questions, please feel free to [reach out to me](https://www.linkedin.com/in/samuel-aderemi).
